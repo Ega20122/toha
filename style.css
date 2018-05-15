@@ -1,0 +1,29 @@
+body{ background: darkgray;
+
+}
+h1 {color:white ;
+    text-align: center;
+
+}
+p{
+    color: blue;
+    font-size: 18px;
+}
+button{ }
+
+
+.image { background-image :url("css-icon.png")  ;
+    background-attachment: fixed;
+    width: 500px;
+    height: 5000px;
+    text-align: justify;
+    border: 4px solid brown ;
+    margin: auto;
+
+
+
+
+
+
+
+}
